@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-gitfind-dio/static/css/main.b7ee2088.css",
+    "main.js": "/react-gitfind-dio/static/js/main.006710c3.js",
+    "static/media/github.png": "/react-gitfind-dio/static/media/github.4d74fd76ac168df7723c.png",
+    "index.html": "/react-gitfind-dio/index.html",
+    "main.b7ee2088.css.map": "/react-gitfind-dio/static/css/main.b7ee2088.css.map",
+    "main.006710c3.js.map": "/react-gitfind-dio/static/js/main.006710c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7ee2088.css",
+    "static/js/main.006710c3.js"
+  ]
+}
